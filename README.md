@@ -5,7 +5,7 @@ The main purpose of this project is to practice and reinforce my understanding o
 
 ---
 
-## 🧠 Features
+## Features
 
 - Addition
 - Subtraction
@@ -14,7 +14,7 @@ The main purpose of this project is to practice and reinforce my understanding o
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 Make sure you have Python 3 installed.
 
